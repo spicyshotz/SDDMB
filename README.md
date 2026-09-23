@@ -1,12 +1,14 @@
-# SteamDepotDownloaderModBuddy
-
+# SDDMB
+#### SteamDepotDownloaderModBuddy
 Yet another DepotDownloader wrapper, but a little nicer.
+
+<img src="readme_assets/WithSearch.png" alt="Alt text" width="800">
 
 This program was made to streamline finding manifest files, downloading the game and removing its Steam dependency, AIO.
 
 To use the program you need the following:
 * Hubcap's Manifests API
-* A Steam account (one you don't mind getting nuked for doing this)
+* A Steam account (one you don't mind getting nuked for doing this, the account can be one that you create just for these downloads, you can then play the game with your own account if steam is open)
 
 Additionally, The program depends on the following projects:
 
