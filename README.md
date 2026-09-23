@@ -2,13 +2,11 @@
 
 Yet another DepotDownloader wrapper, but a little nicer.
 
-This Program was made to streamline finding manifest files, downloading the game and removing its Steam dependency, AIO.
-
-You can use it for both downloading and playing games and also downloading workshop by pasting their links in the programs search bar.
+This program was made to streamline finding manifest files, downloading the game and removing its Steam dependency, AIO.
 
 To use the program you need the following:
 * Hubcap's Manifests API
-* A Steam account (one you don't mind using for this * wink wink *)
+* A Steam account (one you don't mind getting nuked for doing this)
 
 Additionally, The program depends on the following projects:
 
