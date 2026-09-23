@@ -2,6 +2,8 @@
 
 Yet another DepotDownloader wrapper, but a little nicer.
 
+<img src="readme_assets/WithSearch.png" alt="Alt text" width="800">
+
 This program was made to streamline finding manifest files, downloading the game and removing its Steam dependency, AIO.
 
 To use the program you need the following:
