@@ -1,0 +1,53 @@
+# =============================================================================
+# SteamDepotDownloaderModBuddy (SDDMB) - Git Ignore
+# =============================================================================
+
+# Python byte-compiled files & caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# PyInstaller build directories and spec files
+build/
+dist/
+*.spec
+*.manifest
+
+# Temporary installer directories
+_temp_installer/
+_temp/
+test_install_run/
+
+# User runtime data & depot downloads
+DDM/depots/
+DDM/depotkeys.txt
+references/test_depotkeys.txt
+
+# Third-party external binaries (populated automatically by install.bat)
+/DDM/
+/Steamless/
+/UC2/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*~
+*.sublime-workspace
+*.sublime-project
+
+# Operating System generated files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+*.log
